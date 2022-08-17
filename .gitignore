@@ -1,0 +1,6 @@
+node_modules/
+app/*
+dist_electron/*
+
+#Electron-builder output
+/dist_electron

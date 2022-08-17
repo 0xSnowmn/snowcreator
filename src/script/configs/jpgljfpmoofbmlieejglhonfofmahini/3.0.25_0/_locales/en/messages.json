@@ -1,0 +1,642 @@
+{
+   "IP_NOT_CHANGED_MULTI_LOGIN": {
+      "message": "Your Premium Subscription is being used on another device, please log out of all other devices to use Tuxler on this device."
+   },
+   "about_copyright": {
+      "message": "Copyright"
+   },
+   "about_released": {
+      "message": "Released: January, 2019"
+   },
+   "about_version": {
+      "message": "Tuxler Extension Version"
+   },
+   "appDescription": {
+      "description": "The extension description.",
+      "message": "A revolutionary community-powered VPN network with a HUGE number of worldwide locations available."
+   },
+   "appName": {
+      "description": "The extension name.",
+      "message": "Free Residential VPN | Tuxler"
+   },
+   "appShortName": {
+      "description": "The extension short name.",
+      "message": "Tuxler Extension"
+   },
+   "buy_premium_buy_to_select": {
+      "message": "To select by city."
+   },
+   "buy_premium_get_free_premium_time": {
+      "message": "Get free premium time"
+   },
+   "buy_premium_please_upgrade": {
+      "message": "Please upgrade to premium."
+   },
+   "buy_premium_share_this_app": {
+      "message": "Share this App with friends and get Free Premium Time !"
+   },
+   "buy_premium_upgrade_toPremium": {
+      "message": "Upgrade to premium"
+   },
+   "country_ae": {
+      "message": "United Arab Emirates"
+   },
+   "country_al": {
+      "message": "Albania"
+   },
+   "country_am": {
+      "message": "Armenia"
+   },
+   "country_ao": {
+      "message": "Angola"
+   },
+   "country_ar": {
+      "message": "Argentina"
+   },
+   "country_at": {
+      "message": "Austria"
+   },
+   "country_au": {
+      "message": "Australia"
+   },
+   "country_az": {
+      "message": "Azerbaijan"
+   },
+   "country_bd": {
+      "message": "Bangladesh"
+   },
+   "country_be": {
+      "message": "Belgium"
+   },
+   "country_bf": {
+      "message": "Burkina Faso"
+   },
+   "country_bg": {
+      "message": "Bulgaria"
+   },
+   "country_bj": {
+      "message": "Benin"
+   },
+   "country_bo": {
+      "message": "Bolivia, Plurinational State of"
+   },
+   "country_br": {
+      "message": "Brazil"
+   },
+   "country_by": {
+      "message": "Belarus"
+   },
+   "country_ca": {
+      "message": "Canada"
+   },
+   "country_cg": {
+      "message": "Congo"
+   },
+   "country_ch": {
+      "message": "Switzerland"
+   },
+   "country_cl": {
+      "message": "Chile"
+   },
+   "country_cm": {
+      "message": "Cameroon"
+   },
+   "country_cn": {
+      "message": "China"
+   },
+   "country_co": {
+      "message": "Colombia"
+   },
+   "country_cr": {
+      "message": "Costa Rica"
+   },
+   "country_cz": {
+      "message": "Czech Republic"
+   },
+   "country_de": {
+      "message": "Germany"
+   },
+   "country_do": {
+      "message": "Dominican Republic"
+   },
+   "country_dz": {
+      "message": "Algeria"
+   },
+   "country_ec": {
+      "message": "Ecuador"
+   },
+   "country_ee": {
+      "message": "Estonia"
+   },
+   "country_eg": {
+      "message": "Egypt"
+   },
+   "country_es": {
+      "message": "Spain"
+   },
+   "country_et": {
+      "message": "Ethiopia"
+   },
+   "country_fi": {
+      "message": "Finland"
+   },
+   "country_fr": {
+      "message": "France"
+   },
+   "country_ga": {
+      "message": "Gabon"
+   },
+   "country_gb": {
+      "message": "United Kingdom"
+   },
+   "country_gh": {
+      "message": "Ghana"
+   },
+   "country_gn": {
+      "message": "Guinea"
+   },
+   "country_gr": {
+      "message": "Greece"
+   },
+   "country_hn": {
+      "message": "Honduras"
+   },
+   "country_hr": {
+      "message": "Croatia"
+   },
+   "country_ht": {
+      "message": "Haiti"
+   },
+   "country_hu": {
+      "message": "Hungary"
+   },
+   "country_id": {
+      "message": "Indonesia"
+   },
+   "country_ie": {
+      "message": "Ireland"
+   },
+   "country_il": {
+      "message": "Israel"
+   },
+   "country_in": {
+      "message": "India"
+   },
+   "country_iq": {
+      "message": "Iraq"
+   },
+   "country_ir": {
+      "message": "Iran, Islamic Republic of"
+   },
+   "country_it": {
+      "message": "Italy"
+   },
+   "country_jm": {
+      "message": "Jamaica"
+   },
+   "country_jo": {
+      "message": "Jordan"
+   },
+   "country_jp": {
+      "message": "Japan"
+   },
+   "country_kg": {
+      "message": "Kyrgyzstan"
+   },
+   "country_kh": {
+      "message": "Cambodia"
+   },
+   "country_kz": {
+      "message": "Kazakhstan"
+   },
+   "country_lb": {
+      "message": "Lebanon"
+   },
+   "country_lr": {
+      "message": "Liberia"
+   },
+   "country_lt": {
+      "message": "Lithuania"
+   },
+   "country_lv": {
+      "message": "Latvia"
+   },
+   "country_ly": {
+      "message": "Libya"
+   },
+   "country_ma": {
+      "message": "Morocco"
+   },
+   "country_mg": {
+      "message": "Madagascar"
+   },
+   "country_mk": {
+      "message": "North Macedonia"
+   },
+   "country_mm": {
+      "message": "Myanmar"
+   },
+   "country_mn": {
+      "message": "Mongolia"
+   },
+   "country_mu": {
+      "message": "Mauritius"
+   },
+   "country_mw": {
+      "message": "Malawi"
+   },
+   "country_mx": {
+      "message": "Mexico"
+   },
+   "country_my": {
+      "message": "Malaysia"
+   },
+   "country_mz": {
+      "message": "Mozambique"
+   },
+   "country_ng": {
+      "message": "Nigeria"
+   },
+   "country_ni": {
+      "message": "Nicaragua"
+   },
+   "country_nl": {
+      "message": "Netherlands"
+   },
+   "country_no": {
+      "message": "Norway"
+   },
+   "country_np": {
+      "message": "Nepal"
+   },
+   "country_nz": {
+      "message": "New Zealand"
+   },
+   "country_om": {
+      "message": "Oman"
+   },
+   "country_pe": {
+      "message": "Peru"
+   },
+   "country_ph": {
+      "message": "Philippines"
+   },
+   "country_pk": {
+      "message": "Pakistan"
+   },
+   "country_pl": {
+      "message": "Poland"
+   },
+   "country_pt": {
+      "message": "Portugal"
+   },
+   "country_py": {
+      "message": "Paraguay"
+   },
+   "country_qa": {
+      "message": "Qatar"
+   },
+   "country_ro": {
+      "message": "Romania"
+   },
+   "country_ru": {
+      "message": "Russian Federation"
+   },
+   "country_sa": {
+      "message": "Saudi Arabia"
+   },
+   "country_sd": {
+      "message": "Sudan"
+   },
+   "country_se": {
+      "message": "Sweden"
+   },
+   "country_sg": {
+      "message": "Singapore"
+   },
+   "country_si": {
+      "message": "Slovenia"
+   },
+   "country_sk": {
+      "message": "Slovakia"
+   },
+   "country_sn": {
+      "message": "Senegal"
+   },
+   "country_so": {
+      "message": "Somalia"
+   },
+   "country_sv": {
+      "message": "El Salvador"
+   },
+   "country_sy": {
+      "message": "Syrian Arab Republic"
+   },
+   "country_tg": {
+      "message": "Togo"
+   },
+   "country_th": {
+      "message": "Thailand"
+   },
+   "country_tn": {
+      "message": "Tunisia"
+   },
+   "country_tr": {
+      "message": "Turkey"
+   },
+   "country_tz": {
+      "message": "Tanzania, United Republic of"
+   },
+   "country_ua": {
+      "message": "Ukraine"
+   },
+   "country_ug": {
+      "message": "Uganda"
+   },
+   "country_us": {
+      "message": "United States"
+   },
+   "country_uy": {
+      "message": "Uruguay"
+   },
+   "country_uz": {
+      "message": "Uzbekistan"
+   },
+   "country_ve": {
+      "message": "Venezuela, Bolivarian Republic of"
+   },
+   "country_vn": {
+      "message": "Viet Nam"
+   },
+   "country_za": {
+      "message": "South Africa"
+   },
+   "country_zm": {
+      "message": "Zambia"
+   },
+   "country_zw": {
+      "message": "Zimbabwe"
+   },
+   "go_back": {
+      "message": "Go Back"
+   },
+   "install_app_required": {
+      "message": "Tuxler Chrome Application is required to start Tuxler Plugin."
+   },
+   "install_click": {
+      "message": "Click on the button bellow to safely install from our website."
+   },
+   "install_install": {
+      "message": "Install Tuxler App"
+   },
+   "logged_in_current": {
+      "message": "Current Credentials"
+   },
+   "logged_in_day": {
+      "message": "day"
+   },
+   "logged_in_days": {
+      "message": "days"
+   },
+   "logged_in_email_login": {
+      "message": "Email / Login"
+   },
+   "logged_in_expires": {
+      "message": "Premium expires in:"
+   },
+   "logged_in_password": {
+      "message": "Password"
+   },
+   "logged_in_remove": {
+      "message": "REMOVE CREDENTIALS"
+   },
+   "login_login": {
+      "message": "LOGIN"
+   },
+   "login_member": {
+      "message": "Premium Member Login"
+   },
+   "main_ago": {
+      "message": "ago"
+   },
+   "main_city": {
+      "message": "City"
+   },
+   "main_country": {
+      "message": "Country"
+   },
+   "main_current_location": {
+      "message": "CURRENT LOCATION"
+   },
+   "main_free_left": {
+      "message": "Free Premium Time left:"
+   },
+   "main_get_free": {
+      "message": "Get Free Premium Time"
+   },
+   "main_hour_symbol": {
+      "message": "h"
+   },
+   "main_left_day": {
+      "message": "a day"
+   },
+   "main_left_days": {
+      "message": "%d days"
+   },
+   "main_left_hour": {
+      "message": "about an hour"
+   },
+   "main_left_hours": {
+      "message": "about %d hours"
+   },
+   "main_left_minute": {
+      "message": "about a minute"
+   },
+   "main_left_minutes": {
+      "message": "%d minutes"
+   },
+   "main_left_month": {
+      "message": "about a month"
+   },
+   "main_left_months": {
+      "message": "%d months"
+   },
+   "main_left_seconds": {
+      "message": "less than a minute"
+   },
+   "main_left_year": {
+      "message": "about a year"
+   },
+   "main_left_years": {
+      "message": "%d years"
+   },
+   "main_minute_symbol": {
+      "message": "m"
+   },
+   "main_never": {
+      "message": "Never"
+   },
+   "main_preferred_location": {
+      "message": "PREFERRED LOCATION"
+   },
+   "main_reload": {
+      "message": "Reload to next nearby location"
+   },
+   "main_residential": {
+      "message": "Residential IPs provide more anonimity and a bigger choice of locations but they are slower and less stable."
+   },
+   "main_residential_title": {
+      "message": "Use Residential Locations"
+   },
+   "main_second_symbol": {
+      "message": "s"
+   },
+   "main_share": {
+      "message": "Share this App with friends and get Free Premium Time !"
+   },
+   "main_you_are_going": {
+      "message": "You are going to get the nearest possible location available at the moment."
+   },
+   "menu_about": {
+      "message": "About"
+   },
+   "menu_buy_premium": {
+      "message": "Buy Premium Version"
+   },
+   "menu_help": {
+      "message": "Help"
+   },
+   "menu_logged_in": {
+      "message": "My Account Info"
+   },
+   "menu_login": {
+      "message": "Premium User Login"
+   },
+   "menu_referral": {
+      "message": "Referral Program"
+   },
+   "menu_uninstall": {
+      "message": "Uninstall Guide"
+   },
+   "message_banned_compilance": {
+      "message": "Our service is not available in your country."
+   },
+   "message_limit_change_ip_by_country": {
+      "message": "Your daily limit for this location is exhausted. Please choose other location or buy Premium version.\\nThis limit will be reset after {time} hours."
+   },
+   "message_limit_free": {
+      "message": "You have reached 24-hour IP change limit in Free version.\\n\\nPlease upgrade to Premium version to change IP."
+   },
+   "message_limit_multi_login": {
+      "message": "Multiple logins detected!\\n\\nOne Tuxler licence can be used on one device only.\\n\\nPlease do not share your account."
+   },
+   "message_limit_premium": {
+      "message": "You have reached 24-hour IP change limit."
+   },
+   "popupTitle": {
+      "description": "",
+      "message": "Tuxler"
+   },
+   "rating_message1": {
+      "message": "Please rate "
+   },
+   "rating_message10": {
+      "message": "for rating Tuxler VPN. \\nPlease submit a quick review \\nof TuxlerVPN on Chrome Web Store, \\nit will help us a lot."
+   },
+   "rating_message11": {
+      "message": "OPEN CHROME WEB STORE"
+   },
+   "rating_message2": {
+      "message": "Tuxler VPN!"
+   },
+   "rating_message3": {
+      "message": "What could we "
+   },
+   "rating_message4": {
+      "message": "improve?"
+   },
+   "rating_message5": {
+      "message": "Submit your feedback"
+   },
+   "rating_message6": {
+      "message": "Thank you"
+   },
+   "rating_message7": {
+      "message": "for your valuable feedback, \\nwe appreciate it and we will use \\nit to improve Tuxler VPN."
+   },
+   "rating_message8": {
+      "message": "OK"
+   },
+   "rating_message9": {
+      "message": "Thank you"
+   },
+   "rating_message_star1": {
+      "message": "one star"
+   },
+   "rating_message_star2": {
+      "message": "two stars"
+   },
+   "rating_message_star3": {
+      "message": "three stars"
+   },
+   "rating_message_star4": {
+      "message": "four stars"
+   },
+   "rating_message_star5": {
+      "message": "five stars"
+   },
+   "status_attempt": {
+      "message": "Attempting to establish a connection with Tuxler Server."
+   },
+   "status_connected": {
+      "message": "Connected"
+   },
+   "status_connecting": {
+      "message": "Connecting......."
+   },
+   "status_disconnected": {
+      "message": "Disconnected"
+   },
+   "status_it_takes": {
+      "message": "It may take few minutes."
+   },
+   "status_no_internet": {
+      "message": "No Internet connection"
+   },
+   "status_please_connect": {
+      "message": "Please connect to the Internet to use this extension."
+   },
+   "update_link_text": {
+      "message": "Click here to view how to do that."
+   },
+   "update_text": {
+      "message": "Firefox requires you to enable private browsing for VPN-type Addons."
+   },
+   "update_title": {
+      "message": "Action Required"
+   },
+   "upgrade_page_get_free": {
+      "message": "Get free Premium time"
+   },
+   "upgrade_page_limit": {
+      "message": "You have reached your daily location changing limit."
+   },
+   "upgrade_page_limit2": {
+      "message": "From now on worldwide locations will be assigned randomly."
+   },
+   "upgrade_page_limit3": {
+      "message": "This limit will reset in {reset_hours}."
+   },
+   "upgrade_page_limit_hour": {
+      "message": "hour"
+   },
+   "upgrade_page_limit_hours": {
+      "message": "hours"
+   },
+   "upgrade_page_share": {
+      "message": "Share this App with friends and get Free Premium Time !"
+   },
+   "upgrade_page_upgrade": {
+      "message": "Upgrade to Premium"
+   }
+}

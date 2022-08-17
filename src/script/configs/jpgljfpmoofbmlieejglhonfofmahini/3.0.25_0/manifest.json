@@ -1,0 +1,42 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "img/icon128.png",
+         "16": "img/icon16.png",
+         "19": "img/icon19.png",
+         "32": "img/icon32.png",
+         "48": "img/icon48.png",
+         "64": "img/icon64.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_popupTitle__"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.js" ],
+      "matches": [ "http://payments.tuxler.com/*", "https://payments.tuxler.com/*", "http://tuxler.com/*", "https://tuxler.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "externally_connectable": {
+      "matches": [ "https://*.tuxlernew2020.wpengine.com/*", "http://*.tuxlernew2020.wpengine.com/*", "https://tuxlernew2020.wpengine.com/*", "http://tuxlernew2020.wpengine.com/*", "https://*.tuxler.com/*", "http://*.tuxler.com/*", "http://tuxler.com/*", "https://tuxler.com/*", "https://*.tuxlervpn.com/*", "http://*.tuxlervpn.com/*", "http://tuxlervpn.com/*", "https://tuxlervpn.com/*" ]
+   },
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "19": "img/icon19.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png",
+      "64": "img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmdNlJqZ3nE//qZBei67STZ1Pqcz+Sqxa6T4GyxO6pILTK/pxfdDeaXA6egEBncG5cm5G+Mb8TxhuJb6JBsP3DQwzPZC8ZIBXzPZfnwCM7VMi7meMDJRnlyW0G8BB7hSq76boHaZu+06meZfPuO5KUMxeFLrjGumEneW7QGL3yvGzOOy7fYqN9aCEO8uY6dv11UYqGlXmC0oj6lTWmG4c28lIdhOyMq71MYAtJS1nPta8GcKr30fI9e8fEsHSCjsw6U2uWYW7abZWYUZCj97oxxPXncYOYH64+Wu5AEx1LYMWV6+PpxaLlZEnt7yZdOt0umM15TaCz3qpBobjm3BxkQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "\u003Call_urls>", "proxy", "privacy", "storage", "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.25"
+}
